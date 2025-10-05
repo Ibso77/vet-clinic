@@ -229,7 +229,7 @@ padding-top: 8px;
     padding-top: 145px;
     background-image: url(../images/hero-bg-group.png),url(../images/hero-bg-parrot.png);
     background-repeat: no-repeat;
-    background-position:calc(50% - 450px) calc(-100px),calc(1090px) calc(400px)
+    background-position:calc(50% - 450px) calc(-100px),calc(50% + 590px) calc(400px)
 }
 .container {
 }
